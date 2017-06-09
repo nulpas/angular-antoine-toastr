@@ -1,4 +1,6 @@
 gen/
 node_modules/
+bower_components/
 playground/
 .idea/
+package-lock.json

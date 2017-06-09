@@ -1,6 +1,8 @@
 {
   "name": "angular-antoine-toastr",
-  "version": "0.0.1",
+  "description": "Antoine alert system based con Foxandxss/angular-toastr",
+  "version": "0.0.2",
+  "homepage": "https://github.com/nulpas/angular-antoine-toastr",
   "authors": [
     "Antonio Alvarez Torres <antonioalvareztorres.trabajo@gmail.com> (https://github.com/Atap23)",
     "Nul Pàs <manu@lunaeme.com> (https://twitter.com/NulPas)"
@@ -30,6 +32,6 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": ">=1.3.0"
+    "angular": "^1.6.4"
   }
 }

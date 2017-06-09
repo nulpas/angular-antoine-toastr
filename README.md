@@ -1,39 +1,21 @@
-# Angular Toastr
-
-[![Code Climate](https://codeclimate.com/github/Foxandxss/angular-toastr.png)](https://codeclimate.com/github/Foxandxss/angular-toastr) [![Build Status](https://travis-ci.org/Foxandxss/angular-toastr.svg?branch=master)](https://travis-ci.org/Foxandxss/angular-toastr) [![devDependency Status](https://david-dm.org/Foxandxss/angular-toastr/dev-status.svg)](https://david-dm.org/Foxandxss/angular-toastr#info=devDependencies)
-
-**NOTE:** For angular 1.2.x support check `angular-1.2` branch or download the `0.4.x` release of `angular-toastr`.
-
-**angular-toastr** was originally a port of [CodeSeven/toastr](https://github.com/CodeSeven/toastr). It could now show some differences with it.
-
-The goal is to provide the same API than the original one but without jQuery and using all the angular power.
-
-## Demo
-
-[Demo](http://foxandxss.github.io/angular-toastr/)
+# Angular Antoine Toastr
+##### Antoine alert system based con [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr)
 
 ## Installation
 
 Use npm:
 
 ```
-$ npm install angular-toastr
+$ npm install angular-antoine-toastr
 ```
 
 If you are not using npm (you should), you can use bower:
 
 ```
-$ bower install angular-toastr
+$ bower install angular-antoine-toastr
 ```
 
-To use a CDN, you can include the next two lines:
-
-```html
-<script src="https://unpkg.com/angular-toastr/dist/angular-toastr.tpls.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/angular-toastr/dist/angular-toastr.css" />
-```
-
-Or you can grab the latest [release](https://github.com/Foxandxss/angular-toastr/releases) and add both the `css` and `javascript` file:
+You can grab the latest [release](https://github.com/nulpas/angular-antoine-toastr) and add both the `css` and `javascript` file:
 
 ```html
 <link rel="stylesheet" type="text/css" href="angular-toastr.css" />
