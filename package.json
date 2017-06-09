@@ -1,6 +1,8 @@
 {
   "name": "angular-antoine-toastr",
-  "version": "0.0.1",
+  "description": "Antoine alert system based con Foxandxss/angular-toastr",
+  "version": "0.0.2",
+  "homepage": "https://github.com/nulpas/angular-antoine-toastr",
   "author": "Antonio Alvarez Torres <antonioalvareztorres.trabajo@gmail.com> (https://github.com/Atap23)",
   "contributors": [
     "Nul Pàs <manu@lunaeme.com> (https://twitter.com/NulPas)"
@@ -17,19 +19,19 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "angular": "^1.5.0",
-    "angular-mocks": "^1.5.0",
-    "del": "^2.0.2",
-    "gulp": "^3.8.10",
-    "gulp-angular-templatecache": "^1.5.0",
-    "gulp-concat": "^2.4.3",
-    "gulp-cssnano": "^2.1.1",
-    "gulp-jshint": "^2.0.0",
-    "gulp-less": "^3.0.2",
-    "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^1.0.2",
-    "jquery": "^2.1.4",
-    "jshint": "^2.9.1",
-    "jshint-stylish": "^2.0.0"
+    "angular": "^1.6.4",
+    "angular-mocks": "^1.6.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
   }
 }
